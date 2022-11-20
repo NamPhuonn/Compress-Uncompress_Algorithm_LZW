@@ -1,4 +1,4 @@
-# Compress-Uncompress_Algorithm_LZW
+<h1 align="center"> Compress-Uncompress_Algorithm_LZW </h1> 
 <h1>Team members</h1>
 - 21120313-Trần Nam Phương
 - 21120317-Nguyễn Phan Anh Quốc
